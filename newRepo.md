@@ -1,6 +1,5 @@
 # 在 Github 上新建仓库
 
-[TOC]
 
 ## 1 新建仓库（Repository）
 打开 [Github](https://github.com) 主页，点击 “+” 图标，新建仓库。
